@@ -2,7 +2,9 @@
 
 
 Portfolio Optimization and Performance Analysis
-Overview
+
+## Overview
+
 This repository contains the implementation of portfolio allocation strategies as part of the Computational Finance course (2023-2024). The project focuses on constructing and analyzing efficient portfolios using sector and factor indices of the S&P 500 under different constraints and methodologies.
 
 The analysis is conducted using MATLAB, and results are presented through tables and plots in the report.
